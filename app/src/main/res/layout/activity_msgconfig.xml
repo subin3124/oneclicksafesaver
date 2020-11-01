@@ -39,21 +39,7 @@
             android:layout_height="wrap_content" />
     </LinearLayout>
 
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content">
 
-        <TextView
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="칼에 베임 메시지 :"
-            android:textSize="30dp" />
-
-        <EditText
-            android:id="@+id/kmsg"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
-    </LinearLayout>
 
     <Button
         android:id="@+id/okay"
